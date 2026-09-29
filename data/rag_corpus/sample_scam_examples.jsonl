@@ -1,0 +1,14 @@
+{"text": "Your account will be suspended in 24 hours. Click here to verify your identity immediately.", "source": "sample_apwg", "label": "scam"}
+{"text": "Congratulations! You've won a lottery prize. Send your bank details to claim your winnings.", "source": "sample_apwg", "label": "scam"}
+{"text": "Dear customer, your KYC has expired. Update it now via this link to avoid account block.", "source": "sample_indian_upi", "label": "scam"}
+{"text": "Your UPI PIN has been used to receive Rs. 5000. If this was not you, click here to reverse the transaction.", "source": "sample_indian_upi", "label": "scam"}
+{"text": "IT support: Your Microsoft 365 storage is full. Log in here to avoid data loss.", "source": "sample_apwg", "label": "scam"}
+{"text": "Your parcel could not be delivered. Pay a small customs fee here to reschedule delivery.", "source": "sample_indian_upi", "label": "scam"}
+{"text": "You have an unclaimed prize bonus. Share your policy number and OTP to claim it now.", "source": "sample_indian_upi", "label": "scam"}
+{"text": "You received money by mistake in your wallet. Return it immediately to this number or face legal action.", "source": "sample_indian_upi", "label": "scam"}
+{"text": "Your OTP for login is 482913. Do not share it with anyone.", "source": "sample_legit", "label": "legitimate"}
+{"text": "Your order has been shipped and will arrive in two days.", "source": "sample_legit", "label": "legitimate"}
+{"text": "Reminder: your appointment is scheduled for tomorrow at 10am.", "source": "sample_legit", "label": "legitimate"}
+{"text": "Your salary has been credited to your account.", "source": "sample_legit", "label": "legitimate"}
+{"text": "Your electricity bill for this month is due on the 15th. Pay via the official app or website.", "source": "sample_legit", "label": "legitimate"}
+{"text": "Thanks for the meeting today, I'll send over the notes tomorrow.", "source": "sample_legit", "label": "legitimate"}
